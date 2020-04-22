@@ -1,7 +1,8 @@
 # 2019-BigDataAnalysis
-## 2019-2학기 빅데이터분석 pyspark 자료
+## 2019-2학기 빅데이터분석(BigData Analysis)
+### pyspark를 이용한 빅데이터 분석
 -------------------------
-## 
+### 
 * Docker를 이용한 Spark 설치 및 간단한 Python 예제
 * pyspark RDD 기초 프로그래밍 1
 * pyspark RDD 기초 프로그래밍 2
